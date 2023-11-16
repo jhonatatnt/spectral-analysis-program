@@ -8,8 +8,7 @@ Certifique-se de ter as seguintes bibliotecas instaladas antes de executar o pro
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
-
-
+```
 
 ## Uso
 Defina o caminho da pasta no Google Drive que contém os dados espectrofotométricos no código, na variável link.
@@ -37,3 +36,6 @@ O gráfico resultante é exibido na seção de visualização do código.
 
 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este programa.
+
+
+
